@@ -14,9 +14,14 @@ Important:
 The MapKit framework uses Google services to provide map data. Use of this class and the associated interfaces binds you to the Google Maps/Google Earth API terms of service. You can find these terms of service mentioned in the header section of "MKMapView.h".
 
 ===========================================================================
-SYSTEM REQUIREMENTS
+BUILD REQUIREMENTS
 
-iPhone OS 3.0 or later
+iOS 4.0 SDK or later
+
+===========================================================================
+RUNTIME REQUIREMENTS
+
+iPhone OS 3.2 or later
 
 ===========================================================================
 PACKAGING LIST
@@ -39,6 +44,7 @@ The detail view controller used for displaying the Golden Gate Bridge.
 ===========================================================================
 CHANGES FROM PREVIOUS VERSIONS
 
+1.2 Updated icons and artwork. Upgraded project to build with the iOS 4 SDK.
 1.0 Initial version published.
 
 ===========================================================================

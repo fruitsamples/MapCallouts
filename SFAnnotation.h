@@ -1,7 +1,7 @@
 /*
      File: SFAnnotation.h 
  Abstract: The custom MKAnnotation object representing the city of San Francisco. 
-  Version: 1.0 
+  Version: 1.2 
   
  Disclaimer: IMPORTANT:  This Apple software is supplied to you by Apple 
  Inc. ("Apple") in consideration of your agreement to the following 

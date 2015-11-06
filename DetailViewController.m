@@ -1,7 +1,7 @@
 /*
      File: DetailViewController.m 
  Abstract: The detail view controller used for displaying the Golden Gate Bridge. 
-  Version: 1.0 
+  Version: 1.2 
   
  Disclaimer: IMPORTANT:  This Apple software is supplied to you by Apple 
  Inc. ("Apple") in consideration of your agreement to the following 
